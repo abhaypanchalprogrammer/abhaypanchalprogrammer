@@ -18,9 +18,7 @@ Hi 👋, I’m Abhay Panchal, a passionate Frontend Developer who is currently t
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaypanchalprogrammer&layout=compact&theme=radical&hide_border=true" />
-</p>![](https://github-readme-stats.vercel.app/api?username=abhaypanchalprogrammer&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abhaypanchalprogrammer&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaypanchalprogrammer&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhaypanchalprogrammer&icon=0&color=0)](https://visitcount.itsvg.in)
