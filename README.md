@@ -20,7 +20,6 @@ Hi 👋, I’m Abhay Panchal, a passionate Frontend Developer who is currently t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaypanchalprogrammer&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=abhaypanchalprogrammer&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
