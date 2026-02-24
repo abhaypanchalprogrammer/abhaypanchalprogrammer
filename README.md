@@ -1,58 +1,15 @@
-<h4 align="left">👋 Hi, I’m Abhay Panchal – a passionate Frontend Developer from India, evolving towards becoming a Full-Stack Developer. I enjoy building responsive, user-friendly, and performance-optimized web interfaces.<br><br>I am currently focusing on developing scalable end-to-end web applications using Node.js, Express.js, and MongoDB while strengthening my problem-solving and data structures skills.<br><br>I believe in continuous learning and practical development by building real-world projects that create meaningful impact.<br><br>🎯 Current Focus<br><br>🌐 Full-Stack Development with MERN Stack<br>🛠️ Building production-ready real-world projects<br>⚡ Improving DSA and algorithmic thinking<br>🔗 Learning APIs, Authentication, and Backend Architecture<br>🚀 Exploring scalable web application design<br><br>💡 Development Philosophy<br><br>✨ Write clean, maintainable, and efficient code<br>📚 Learn every day and build consistently<br>🌟 Turn ideas into practical solutions<br><br>⚡ Motto<br><br>"Code. Create. Contribute. Evolve."</h4>
+# 💫 About Me:
+👋 Hi, I’m Abhay Panchal – a passionate Frontend Developer from India, evolving towards becoming a Full-Stack Developer. I enjoy building responsive, user-friendly, and performance-optimized web interfaces.<br><br>I am currently focusing on developing scalable end-to-end web applications using Node.js, Express.js, and MongoDB while strengthening my problem-solving and data structures skills.<br><br>I believe in continuous learning and practical development by building real-world projects that create meaningful impact.<br><br>🎯 Current Focus<br><br>🌐 Full-Stack Development with MERN Stack<br>🛠️ Building production-ready real-world projects<br>⚡ Improving DSA and algorithmic thinking<br>🔗 Learning APIs, Authentication, and Backend Architecture<br>🚀 Exploring scalable web application design<br><br>💡 Development Philosophy<br><br>✨ Write clean, maintainable, and efficient code<br>📚 Learn every day and build consistently<br>🌟 Turn ideas into practical solutions<br><br>⚡ Motto<br><br>"Code. Create. Contribute. Evolve."
 
-###
 
-<div align="left">
-  <a href="https://www.instagram.com/abhaypanchal.dev?igsh=YjQyeHJpN3lldWlq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="www.linkedin.com/in/abhay-panchal-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhaypanchal.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhaypanchal2525@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="25" alt="express logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="25" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="25" alt="netlify logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="25" alt="vercel logo"  />
-</div>
+![](https://nirzak-streak-stats.vercel.app/?user=abhaypanchalprogrammer&theme=dark&hide_border=false)<br/>
 
-###
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhaypanchalprogrammer)
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
