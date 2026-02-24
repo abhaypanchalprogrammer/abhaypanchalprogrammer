@@ -47,9 +47,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=abhaypanchalprogrammer&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhaypanchalprogrammer)
 
 ###
 
